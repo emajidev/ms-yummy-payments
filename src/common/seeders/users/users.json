@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "62e35d61dcb083b7426ac61c",
+    "role": "admin",
+    "email": "admin@admin.com",
+    "country": "Venezuela",
+    "first_name": "admin",
+    "birth_date": "1990-01-01",
+    "phone": "04121234567",
+    "last_name": "admin",
+    "calling_code": "+58",
+    "address": "",
+    "active": true,
+    "platforms": [
+      {
+        "name": "owner",
+        "platform_id": "$2b$10$qntBL8mkHDvm3bhh2y4A9.ni7NlxK8kJ4b6Cpt7V81Z4Pp1oLwwCS"
+      }
+    ]
+  }
+]
